@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Get IT - EMNE 3\\Emner-3\\Parprogrammeringsoppgaver Uke 3\\Parprogrammeringsoppgaver Uke 3.csproj": {}
+    "C:\\Users\\LeeHu\\source\\repos\\Bilforhandleren\\Bilforhandleren.csproj": {}
   },
   "projects": {
-    "C:\\Get IT - EMNE 3\\Emner-3\\Parprogrammeringsoppgaver Uke 3\\Parprogrammeringsoppgaver Uke 3.csproj": {
+    "C:\\Users\\LeeHu\\source\\repos\\Bilforhandleren\\Bilforhandleren.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Get IT - EMNE 3\\Emner-3\\Parprogrammeringsoppgaver Uke 3\\Parprogrammeringsoppgaver Uke 3.csproj",
-        "projectName": "Parprogrammeringsoppgaver Uke 3",
-        "projectPath": "C:\\Get IT - EMNE 3\\Emner-3\\Parprogrammeringsoppgaver Uke 3\\Parprogrammeringsoppgaver Uke 3.csproj",
+        "projectUniqueName": "C:\\Users\\LeeHu\\source\\repos\\Bilforhandleren\\Bilforhandleren.csproj",
+        "projectName": "Bilforhandleren",
+        "projectPath": "C:\\Users\\LeeHu\\source\\repos\\Bilforhandleren\\Bilforhandleren.csproj",
         "packagesPath": "C:\\Users\\LeeHu\\.nuget\\packages\\",
-        "outputPath": "C:\\Get IT - EMNE 3\\Emner-3\\Parprogrammeringsoppgaver Uke 3\\obj\\",
+        "outputPath": "C:\\Users\\LeeHu\\source\\repos\\Bilforhandleren\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

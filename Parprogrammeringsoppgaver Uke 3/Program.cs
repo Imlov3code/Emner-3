@@ -1,4 +1,4 @@
-﻿namespace VirtualPetApp
+﻿namespace Parprogrammeringsoppgaver_Uke_3
 {
     class Program
     {

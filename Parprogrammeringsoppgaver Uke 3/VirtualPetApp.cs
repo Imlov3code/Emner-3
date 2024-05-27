@@ -1,4 +1,4 @@
-﻿namespace VirtualPetApp
+﻿namespace Parprogrammeringsoppgaver_Uke_3
 {
     enum eMood
     {
@@ -187,5 +187,4 @@
             } while (continueLoop);
         }
     }
-
 }
