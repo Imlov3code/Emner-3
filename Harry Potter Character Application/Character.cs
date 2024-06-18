@@ -135,7 +135,7 @@ namespace HarryPotter
             Console.WriteLine($"Available wands: {keys}");
         }
 
-        public void CastSpells(string spell)
+        public void CastSpells(string spell) 
         {
             ShowSpells();
 
@@ -149,6 +149,7 @@ namespace HarryPotter
 
             Console.WriteLine(result);
         }
+
 
     }
 
