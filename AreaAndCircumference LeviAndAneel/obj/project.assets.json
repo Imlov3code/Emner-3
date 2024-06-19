@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Get IT - EMNE 3\\Emner-3\\AneelAndLevi Bug Project\\AneelAndLevi Bug Project.csproj",
-      "projectName": "AneelAndLevi Bug Project",
-      "projectPath": "C:\\Get IT - EMNE 3\\Emner-3\\AneelAndLevi Bug Project\\AneelAndLevi Bug Project.csproj",
+      "projectUniqueName": "C:\\Get IT - EMNE 3\\Emner-3\\AreaAndCircumference LeviAndAneel\\AreaAndCircumference LeviAndAneel.csproj",
+      "projectName": "AreaAndCircumference LeviAndAneel",
+      "projectPath": "C:\\Get IT - EMNE 3\\Emner-3\\AreaAndCircumference LeviAndAneel\\AreaAndCircumference LeviAndAneel.csproj",
       "packagesPath": "C:\\Users\\LeeHu\\.nuget\\packages\\",
-      "outputPath": "C:\\Get IT - EMNE 3\\Emner-3\\AneelAndLevi Bug Project\\obj\\",
+      "outputPath": "C:\\Get IT - EMNE 3\\Emner-3\\AreaAndCircumference LeviAndAneel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
