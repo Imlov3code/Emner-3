@@ -1,0 +1,15 @@
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/bin/Debug/net7.0/AneelAndLevi Bug Project
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/bin/Debug/net7.0/AneelAndLevi Bug Project.deps.json
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/bin/Debug/net7.0/AneelAndLevi Bug Project.runtimeconfig.json
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/bin/Debug/net7.0/AneelAndLevi Bug Project.dll
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/bin/Debug/net7.0/AneelAndLevi Bug Project.pdb
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.AssemblyInfoInputs.cache
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.AssemblyInfo.cs
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.csproj.CoreCompileInputs.cache
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.sourcelink.json
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.dll
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/refint/AneelAndLevi Bug Project.dll
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.pdb
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/AneelAndLevi Bug Project.genruntimeconfig.cache
+/Users/aneelgrewal/RiderProjects/Emner-3/AneelAndLevi Bug Project/obj/Debug/net7.0/ref/AneelAndLevi Bug Project.dll
